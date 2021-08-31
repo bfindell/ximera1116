@@ -1,2 +1,4 @@
-# ximera1116
- Math 1116
+Ximera Activities for Math 1166
+===========================================================
+
+These activities are for prospective math teachers.
